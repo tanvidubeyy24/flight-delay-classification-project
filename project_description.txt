@@ -1,0 +1,16 @@
+Flight Delay Prediction using Machine Learning
+
+This is a Binary Classification project that predicts whether a flight will arrive 15 or more minutes late.
+
+The project includes data preprocessing, exploratory data analysis, feature selection, categorical encoding, classification algorithms, model evaluation, confusion matrix analysis, model comparison, and model saving.
+
+Algorithms:
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- K-Nearest Neighbors (KNN)
+
+Technologies:
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Joblib
+
+Author: Tanvi Dubey
